@@ -1,0 +1,16 @@
+{
+    "name": "jo/test",
+    "description": "test de composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jo\\Test\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jo"
+        }
+    ],
+    "require": {}
+}
